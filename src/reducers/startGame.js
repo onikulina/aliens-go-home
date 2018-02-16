@@ -1,0 +1,10 @@
+export default (state, initialGameState) => {
+    return {
+        ...state,
+        gameState: {
+            ...initialGameState,
+            started: true,
+            level: state.gameState.level,
+        },
+    };
+};
