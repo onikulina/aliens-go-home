@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"8DAAA,UACE,gBACA,WAAa","file":"static/css/main.5c124138.css","sourcesContent":["html, body {\n  overflow: hidden;\n  height: 100%;\n}\n\n@import url('https://fonts.googleapis.com/css?family=Joti+One');\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
